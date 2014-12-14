@@ -1,0 +1,10 @@
+^App-MakeEPUB-.+
+^blib$
+^_build$
+^Build$
+^epub$
+^Makefile$
+^Makefile\.PL$
+^META\.json$
+^META\.yml$
+^uptimes$
