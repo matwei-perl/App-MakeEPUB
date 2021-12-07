@@ -16,7 +16,7 @@ my $builder = Module::Build->new(
     license             => 'perl',
     meta_merge => {
         resources => {
-            repository => 'https://github.com/matwei/perl-App-MakeEPUB',
+            repository => 'https://github.com/matwei-perl/App-MakeEPUB',
             bugtracker => 'https://rt.cpan.org/Public/Dist/Display.html?Name=App-MakeEPUB',
         }
     },
