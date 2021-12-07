@@ -1,0 +1,9 @@
+App-MakeEPUB-*
+_build/
+Build
+Makefile.PL
+MANIFEST.bak
+META.json
+META.yml
+MYMETA.json
+MYMETA.yml
